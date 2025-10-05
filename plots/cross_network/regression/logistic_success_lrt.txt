@@ -1,0 +1,7 @@
+Logistic GLM (Binomial) LRT for method block
+Reduced: significant ~ C(sample, Sum) + C(ppi, Sum)
+Full   : significant ~ C(sample, Sum) + C(ppi, Sum) + C(_combo, Sum)
+LL(full) = -25377.069, LL(reduced) = -26154.762
+df diff = 20
+LR stat = 1555.385
+p-value = 0

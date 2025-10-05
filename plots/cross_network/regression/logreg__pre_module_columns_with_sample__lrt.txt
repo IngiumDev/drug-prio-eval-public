@@ -1,0 +1,7 @@
+Logistic GLM (Binomial) LRT for added terms
+Reduced: significant ~ C(sample, Sum) + C(ppi, Sum)
+Full   : significant ~ C(sample, Sum) + C(ppi, Sum) + C(_combo, Sum) + seeds + num_children + seed_gene_score_mean + jaccard_mean + seed_specificity_adjusted_mean + seed_entropy + approved_drugs_with_targets
+LL(full) = nan, LL(reduced) = -26154.762
+df diff = 21
+LR stat = nan
+p-value = nan

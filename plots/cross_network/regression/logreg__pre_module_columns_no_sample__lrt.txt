@@ -1,0 +1,7 @@
+Logistic GLM (Binomial) LRT for added terms
+Reduced: significant ~ C(ppi, Sum)
+Full   : significant ~  C(ppi, Sum) + C(_combo, Sum) + seeds + num_children + seed_gene_score_mean + jaccard_mean + seed_specificity_adjusted_mean + seed_entropy + approved_drugs_with_targets
+LL(full) = -49657.566, LL(reduced) = -55380.589
+df diff = 27
+LR stat = 11446.046
+p-value = 0

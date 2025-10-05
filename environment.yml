@@ -1,0 +1,28 @@
+name: drug-prio-eval
+channels:
+  - conda-forge
+dependencies:
+  - numpy=2.2.5
+  - pandas=2.2.3
+  - pip=25.1
+  - python=3.12.10
+  - python-dateutil=2.9.0.post0
+  - python-dotenv=1.1.0
+  - requests
+  - nextflow
+  - ca-certificates
+  - certifi
+  - openssl
+  - pyyaml
+  - tqdm
+  - ipykernel
+  - matplotlib
+  - matplotlib-base
+  - scipy
+  - scikit-learn
+  - umap-learn
+  - shap
+  - treeinterpreter
+  - statsmodels
+  - nf-core
+  - adjusttext

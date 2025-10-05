@@ -1,0 +1,7 @@
+Logistic GLM (Binomial) LRT for added terms
+Reduced: significant ~ C(ppi, Sum)
+Full   : significant ~  C(ppi, Sum) + C(_combo, Sum)
+LL(full) = -54936.672, LL(reduced) = -55380.589
+df diff = 20
+LR stat = 887.833
+p-value = 3.05042e-175
